@@ -24,16 +24,15 @@ public class City extends DataSupport {
         return cityName;
     }
 
-    public void setCityCode(int cityCode) {
-        this.cityCode = cityCode;
+    public void setCityName(String cityName) {
+        this.cityName = cityName;
     }
 
     public int getCityCode() {
         return cityCode;
     }
-
-    public void setCityName(String cityName) {
-        this.cityName = cityName;
+    public void setCityCode(int cityCode) {
+        this.cityCode = cityCode;
     }
 
     public int getProvinceId() {

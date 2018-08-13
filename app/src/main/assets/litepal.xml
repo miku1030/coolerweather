@@ -5,9 +5,9 @@
     <version value="1"/>
 
     <list>
-        <mapping class="com.coolerweather.android.db.Province"/>
-        <mapping class="com.coolerweather.android.db.City"/>
-        <mapping class="com.coolerweather.android.db.County"/>
+        <mapping class="com.example.coolerweather.db.Province"/>
+        <mapping class="com.example.coolerweather.db.City"/>
+        <mapping class="com.example.coolerweather.db.County"/>
 
     </list>
 
